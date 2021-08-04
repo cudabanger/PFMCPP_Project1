@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun:       bomb
 //  action 1:
-
+bomb.detonate();
 //  action 2:
-
+bomb.arm();
 //  action 3:
- 
+bomb.disarm();
 //  2)
-//  Noun:
+//  Noun:       phone
 //  action 1:
-
+phone.callNumber();
 //  action 2:
-
+phone.hangup();
 //  action 3:
- 
+phone.sendTxt(); 
 //  3)
-//  Noun:
+//  Noun:       dog
 //  action 1:
-
+dog.drink();
 //  action 2:
-
+dog.eat();
 //  action 3:
- 
+dog.makePoop(); 
 //  4)
-//  Noun:
+//  Noun:       car       
 //  action 1:
-
+car.startEngine();
 //  action 2:
-
+car.openTrunk();
 //  action 3:
- 
+car.applyBrakes(); 
 //  5)
-//  Noun:
+//  Noun:       tv
 //  action 1:
-
+tv.changeChannel();
 //  action 2:
-
+tv.mute()
 //  action 3:
- 
+tv.turnOff(); 
 //  6)
-//  Noun:
+//  Noun:       bird
 //  action 1:
-
+bird.fly();
 //  action 2:
-
+bird.makeNest();
 //  action 3:
- 
+bird.eatWorm(); 
 //  7)
-//  Noun:
+//  Noun:       guitarplayer
 //  action 1:
-
+guitarplayer.playSolo();
 //  action 2:
-
+guitarplayer.makeWierdFace();
 //  action 3:
- 
+guitarplayer.talkSmackToKeyboardPlayer(); 
 //  8)
-//  Noun:
+//  Noun:       keyboardplayer
 //  action 1:
-
+keyboardplayer.unplugGuitarPlayer();
 //  action 2:
-
+keyboardplayer.takeEvasiveAction();
 //  action 3:
- 
+keyboardplayer.protectGear();
 //  9)
-//  Noun:
+//  Noun:       drummer
 //  action 1:
-
+drummer.bangDrum()
 //  action 2:
-
+drummer.twirlSticks();
 //  action 3:
- 
+drummer.throwSticksIntoAudience();
 //  10)
 //  Noun:
-//  action 1:
-
+//  action 1:       fan
+fan.scream();
 //  action 2:
-
+fan.retrievePicksThrownByGuitarPlayer();
 //  action 3:
- 
+fan.deployLighter();
 
 
 #endif
