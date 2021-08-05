@@ -62,7 +62,7 @@ bomb.disarm();
 //  2)
 //  Noun:       phone
 //  action 1:   the phone dials the number on display
-phone.callNumber();
+phone.dialDisplayedNumber();
 //  action 2:   the phone terminates the call
 phone.hangup();
 //  action 3:   the phone sends the text message
@@ -124,14 +124,13 @@ drummer.twirlSticks();
 //  action 3:   drummer throws sticks out to crowd
 drummer.throwSticksIntoAudience();
 //  10)
-//  Noun:       fan
-//  action 1:   fan screams with delight
-fan.scream();
-//  action 2:   fan makes picking motion and waits for flying picks
-fan.retrievePicksThrownByGuitarPlayer();
-//  action 3:   fan pulls out lighter (fan is old fart)
-fan.deployLighter();
-
+//  Noun:       teslaModelS
+//  action 1: enable extended range power option         
+teslaModelS.enableExtendedRange();
+//  action 2:   activate autonomous driving mode
+teslaModelS.activateAutoDrive();
+//  action 3:   call 911 and delete logs
+teslaModelS.reportAccidentAndPreserveEvidence();
 
 #endif
 
