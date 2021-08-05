@@ -52,86 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bomb
+//  action 1:   the bomb explodes
+bomb.detonate();
+//  action 2:   the bomb arms
+bomb.arm();
+//  action 3:   the bomb disarms
+bomb.disarm();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   the phone dials the number on display
+phone.dialDisplayedNumber();
+//  action 2:   the phone terminates the call
+phone.hangup();
+//  action 3:   the phone sends the text message
+phone.sendTxt(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog takes a drink
+dog.drink();
+//  action 2:   the dog eats any nearby food
+dog.eat();
+//  action 3:   the dog makes the feces
+dog.makePoop(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       car       
+//  action 1:   the car starts the engine
+car.startEngine();
+//  action 2:   the car opens the trunk
+car.openTrunk();
+//  action 3:   the car applies the brakes
+car.applyBrakes(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tv
+//  action 1:   the TV changes current channel
+tv.changeChannel();
+//  action 2:   the TV mutes the sound
+tv.mute()
+//  action 3:   the TV turns off
+tv.turnOff(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird takes off in flight
+bird.fly();
+//  action 2:   the bird builds a nest
+bird.makeNest();
+//  action 3:   the bird eats any nearby worm
+bird.eatWorm(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       guitarplayer
+//  action 1:   guitarplayer plays face-melting solo
+guitarplayer.playSolo();
+//  action 2:   guitarplayer distorts face because badass
+guitarplayer.makeWierdFace();
+//  action 3:   guitarplayer antagonizes keyboard player
+guitarplayer.talkSmackToKeyboardPlayer(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       keyboardplayer
+//  action 1:   keyboardplayer unplugs guitarplayer from amp
+keyboardplayer.unplugGuitarPlayer();
+//  action 2:   keyboardplayer evades fists from guitarplayer
+keyboardplayer.takeEvasiveAction();
+//  action 3:   keyboardplayer protects expensive gear from melee
+keyboardplayer.protectGear();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       drummer
+//  action 1:   drummer strikes drum head
+drummer.bangDrum()
+//  action 2:   drummer twirls sticks around fingers
+drummer.twirlSticks();
+//  action 3:   drummer throws sticks out to crowd
+drummer.throwSticksIntoAudience();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-
+//  Noun:       teslaModelS
+//  action 1: enable extended range power option         
+teslaModelS.enableExtendedRange();
+//  action 2:   activate autonomous driving mode
+teslaModelS.activateAutoDrive();
+//  action 3:   call 911 and delete logs
+teslaModelS.reportAccidentAndPreserveEvidence();
 
 #endif
 
